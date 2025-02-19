@@ -5,7 +5,7 @@ The raw data for this project is only one file. This is the historical data for 
 You can download the data from https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
 
 ## Objective
-The govenment wants to know the count of London bike share in different time and condition.
+The govenment wants to know the count of London bike share in different time and condition to know when they should put in more bikes.
 
 ## Tools
 |Tool       |purpose                                                |
@@ -93,3 +93,7 @@ bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 
 ## Visualization
 ![Image](https://github.com/user-attachments/assets/f50bdfbe-f9be-4fad-9499-cc3771664113)
+
+## Action Plan
+1.In summer and autumn, the govenment should put more bikes in the market.
+2.When the weather is scattered clouds and clear, more people will ride bikes.
