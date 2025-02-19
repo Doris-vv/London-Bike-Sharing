@@ -92,3 +92,4 @@ bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 ```
 
 ## Visualization
+![Image](https://github.com/user-attachments/assets/b11e8770-4af4-4a24-8cb3-56ac67c0c3e4)
