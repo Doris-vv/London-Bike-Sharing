@@ -1,4 +1,4 @@
-# London Bike Sharing
+# London Bike Sharing - Python & Tableau
 The raw data for this project is only one file. This is the historical data for bike sharing in London 'Powered by TfL Open Data'. The data is manipulate in Python and presented in Tableau. This project involves the use of pandas
 
 ## Data source
@@ -92,4 +92,4 @@ bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 ```
 
 ## Visualization
-![Image](https://github.com/user-attachments/assets/b11e8770-4af4-4a24-8cb3-56ac67c0c3e4)
+![Image](https://github.com/user-attachments/assets/f50bdfbe-f9be-4fad-9499-cc3771664113)
