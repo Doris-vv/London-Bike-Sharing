@@ -15,6 +15,8 @@ The govenment wants to know the count of London bike share in different time and
 |Tableau |   visualizing the data via interactive dashboards|
 |GitHub|      hosting the project documentation and version control|
 
+## Data cleaning
+### Transform the Data
 ```
 # import the pandas library
 import pandas as pd
@@ -84,4 +86,9 @@ bikes['season'] = bikes['season'].map(season_dict)
 bikes['weather'] = bikes['weather'].astype('str')
 # mapping the values to the actual written weathers
 bikes['weather'] = bikes['weather'].map(weather_dict)
+
+# writing the final dataframe to an excel file that we will use in our Tableau visualisations. The file will be the 'london_bikes_final.xlsx' file and the sheet name is 'Data'
+bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 ```
+
+## Visualization
