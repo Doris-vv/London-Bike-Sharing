@@ -94,7 +94,7 @@ bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 ## Visualization
 ![Image](https://github.com/user-attachments/assets/2d88a081-484b-45b3-abe5-ec9498e29d52)
 
-## Action Plan
+## Analysis
 1.In summer and autumn, the govenment should put more bikes in the market.
 
 2.When the weather is scattered clouds and clear, more people will ride bikes.
