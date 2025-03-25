@@ -92,7 +92,7 @@ bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 ```
 
 ## Visualization
-![Image](https://github.com/user-attachments/assets/9b31a621-9fd5-42e8-8a31-677bdaaebbf1)
+![Image](https://github.com/user-attachments/assets/2d88a081-484b-45b3-abe5-ec9498e29d52)
 
 ## Action Plan
 1.In summer and autumn, the govenment should put more bikes in the market.
