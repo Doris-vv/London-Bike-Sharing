@@ -1,5 +1,5 @@
 # London Bike Sharing - Python & Tableau
-The raw data for this project is only one file. This is the historical data for bike sharing in London 'Powered by TfL Open Data'. The data is manipulate in Python and presented in Tableau. This project involves the use of pandas
+The raw data for this project is only one file. This is the historical data for bike sharing in London 'Powered by TfL Open Data'. The data is manipulate in Python and presented in Tableau. This project involves the use of pandas and impactful visualizations in tableau.
 
 ## Data source
 You can download the data from https://www.kaggle.com/datasets/hmavrodiev/london-bike-sharing-dataset
@@ -10,10 +10,10 @@ The govenment wants to know the count of London bike share in different time and
 ## Tools
 |Tool       |purpose                                                |
 |-----------|-------------------------------------------------------|
-|Python   |   cleaninging the data|
-|Mokkup AI|   designing the wireframe/mockup of the dashboard|
-|Tableau |   visualizing the data via interactive dashboards|
-|GitHub|      hosting the project documentation and version control|
+|Python   |   Cleaninging the data|
+|Mokkup AI|   Designing the wireframe/mockup of the dashboard|
+|Tableau |   Visualizing the data via interactive dashboards|
+|GitHub|      Hosting the project documentation and version control|
 
 ## Data cleaning
 ### Transform the Data
