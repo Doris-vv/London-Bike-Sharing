@@ -92,6 +92,7 @@ bikes.to_excel('london_bikes_final.xlsx', sheet_name='Data')
 ```
 
 ## Visualization
+Check the dashboard on tableau public from https://public.tableau.com/app/profile/qingxiao.wang/viz/Londonbikeshare_17416232327520/Dashboard
 ![Image](https://github.com/user-attachments/assets/2d88a081-484b-45b3-abe5-ec9498e29d52)
 
 ## Analysis
